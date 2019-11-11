@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 import re
 from flask import Flask, render_template, request, redirect, url_for
 app = Flask(__name__)
